@@ -1,0 +1,7 @@
+numpy>=2.0
+pandas>=2.0
+matplotlib>=3.8
+scipy>=1.13
+scikit-image>=0.24
+scikit-learn>=1.5
+rembg>=2.0
